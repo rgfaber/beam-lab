@@ -19,6 +19,9 @@ Though the cluster will primarily be used as a BEAM cluster for OTP, we will als
 - [HA K3S - Video](https://youtu.be/9PLw1xalcYA)
 - [5 different ways to install K3S](https://youtu.be/O3s3YoPesKs)
 - [K3SUP](https://github.com/alexellis/k3sup)
+- [Ingress with Traefik on K3S](https://itnext.io/ingress-with-treafik-on-k3s-53db6e751ed3)
+- [K8S-Traefik](https://opensource.com/article/20/3/kubernetes-traefik)
+- 
   
 ## BEAM
 ## EventStoreDB

@@ -1,0 +1,1 @@
+FROM eventstore/eventstore:21.10.2-buster-slim
